@@ -94,8 +94,8 @@ class produkController extends Controller
 
         $produk = produk::find($id);
 
-        if(Auth::user()->role !== 1){
-            if($produk->user_id !== Auth::user()->id){
+        if(Auth::user()->role != 1){
+            if($produk->user_id != Auth::user()->id){
                 return array("Maaf Anda tidak memiliki akses untuk mengubah data ini");
             }
         }
