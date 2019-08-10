@@ -226,7 +226,7 @@
 
     function lihatDetail(d){
         // console.log(data);
-        let modalDetail = `<div class="modal animated jello" id="modalD">
+        let modalDetail = `<div class="modal animated bounceInDown" id="modalD">
                             <div class="modal-dialog modal-dialog-centered modal-lg">
                                 <div class="modal-content p-lg-4 btn-circle">
                                         <div class="col-md-12">

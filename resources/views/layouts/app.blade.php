@@ -127,7 +127,7 @@
         color: #ff0000;
      }
      .produk:hover .btn-edit{
-         animation: zoomIn 1s;
+         animation: tada 1s;
          transition: 1s;
      }
      </style>

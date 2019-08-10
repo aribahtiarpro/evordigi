@@ -118,11 +118,11 @@
 
     function lihatDetail(d){
         // console.log(data);
-        let modalDetail = `<div class="modal animated jello" id="modalD">
+        let modalDetail = `<div class="modal animated zoomIn faster" id="modalD">
                             <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content p-lg-4 btn-circle">
+                                <div class="modal-content animated fadeIn p-lg-4 btn-circle">
                                         <div class="col-md-12">
-                                            <div class="row animated zoomIn faster">
+                                            <div class="row">
                                                 <div class="col-md-12 col-lg-5 px-0 pb-0">
                                                     <img src="/img/${d.img}" class="card-img-top btn-circle" alt="...">
                                                 </div>
@@ -154,7 +154,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="col-md-12">
-                                                        <button class="btn btn-warning float-right btn-edit btn-circle m-2"><i class="fa fa-fire"></i> Booking Now </button>
+                                                        <button class="btn btn-warning float-right btn-edit btn-circle m-2 animated tada"><i class="fa fa-fire"></i> Booking Now </button>
                                                 </div>
                                             </div>
                                         </div>
