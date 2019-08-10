@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="assets/font-awesome/css/fontawesome-all.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-	<title>AppStorm - Application Startup HTML Template</title>
+    <link rel="shortcut icon" href="/img/logo.png" type="image/x-icon">
+	<title>Evordigi - Event Organizer Digital</title>
 
 </head>
 <body data-spy="scroll" data-target=".navbar" class="has-loading-screen">
