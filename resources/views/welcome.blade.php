@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="author" content="ThemeStarz">
-
+    @laravelPWA
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,600">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="assets/font-awesome/css/fontawesome-all.min.css">
@@ -41,7 +41,7 @@
                             <a class="nav-item nav-link ts-scroll" href="#our-clients">Our Clients</a>
                             <a class="nav-item nav-link ts-scroll" href="#gallery">Galley</a>
                             <a class="nav-item nav-link ts-scroll" href="#form-contact">Contact</a>
-                            <a class="nav-item nav-link ts-scroll btn btn-primary btn-sm text-white ml-3 px-3 ts-width__auto" href="#download">Download</a>
+                            <a class="nav-item nav-link ts-scroll btn btn-primary btn-sm text-white ml-3 px-3 ts-width__auto" href="/register">Register</a>
                         </div>
                         <!--end navbar-nav-->
                     </div>
@@ -57,9 +57,9 @@
                     <div class="col-sm-7">
                         <h3 class="ts-opacity__50">Solusi Acaramu!</h3>
                         <h1>Event Organizer Digital</h1>
-                        <a href="/register" class="btn btn-light btn-lg ts-scroll">
+                        <a href="http://linktr.ee/evordigi" class="btn btn-light btn-lg ts-scroll">
                             <i class="fa fa-fire"></i> 
-                        Register</a>
+                        Pesan Sekarang</a>
                     </div>
                     <!--end col-sm-7 col-md-7-->
                     <div class="col-sm-5 d-none d-sm-block">
