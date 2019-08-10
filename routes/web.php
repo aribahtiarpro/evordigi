@@ -24,7 +24,7 @@ Route::middleware('auth')->group(function () {
 
     Route::get('/jasa', 'HomeController@produk');
     Route::get('/booking', 'HomeController@transaksi');
-    Route::post('/upload-image', 'homeController@uploadImage');
+    Route::post('/upload-image', 'HomeController@uploadImage');
 
 });
 

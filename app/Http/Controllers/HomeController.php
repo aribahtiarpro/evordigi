@@ -33,8 +33,6 @@ class HomeController extends Controller
     {
         return view('transaksi');
     }
-
-
     public function uploadImage(Request $request){
 
         $image_file = $request->image;
@@ -46,7 +44,6 @@ class HomeController extends Controller
         file_put_contents($path, $image_file);
 
         return $image_name;
-
     }
 
 }

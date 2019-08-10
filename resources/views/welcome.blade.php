@@ -56,9 +56,9 @@
                     <div class="col-sm-7">
                         <h3 class="ts-opacity__50">Solusi Acaramu!</h3>
                         <h1>Event Organizer Digital</h1>
-                        <a href="/login" class="btn btn-light btn-lg ts-scroll">
+                        <a href="/register" class="btn btn-light btn-lg ts-scroll">
                             <i class="fa fa-fire"></i> 
-                        Sign Up</a>
+                        Register</a>
                     </div>
                     <!--end col-sm-7 col-md-7-->
                     <div class="col-sm-5 d-none d-sm-block">
