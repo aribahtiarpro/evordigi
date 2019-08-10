@@ -17,7 +17,7 @@ class produkController extends Controller
         $where = "produks.user_id != ''";
 
 
-        if(Auth::user()->role !== 1){
+        if(Auth::user()->role != 1){
             // Untuk User Biasa
             $where .= "AND produks.user_id = ". Auth::user()->id;
         }
