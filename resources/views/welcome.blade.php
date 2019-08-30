@@ -96,19 +96,20 @@
             <section id="how-it-works" class="ts-block text-center">
                 <div class="container">
                     <div class="ts-title">
-                        <h2>How It Works</h2>
+                        <h2>What kind of event you want?</h2>
                     </div>
                     <!--end ts-title-->
                     <div class="row">
                         <div class="col-sm-6 col-md-4 col-xl-4">
                             <figure data-animate="ts-fadeInUp">
                                 <figure class="icon mb-5 p-2">
-                                    <img src="assets/img/icon-watch-heart.png" alt="">
-                                    <div class="ts-svg" data-animate="ts-zoomInShort" data-bg-image="assets/svg/organic-shape-01.svg"></div>
+                                    <img src="assets/img/evordigi/WEDDING.png" alt="">
+                                    <div class="ts-svg" data-animate="ts-zoomInShort" data-bg-image="assets/svg"></div>
                                 </figure>
-                                <h4>Monitor Your Activity</h4>
+                                <h4> </h4>
                                 <p>
-                                    Morbi et nisl a sapien malesuada scelerisque. Suspendisse tempor turpis mattis
+                                    <b>Pastikan Momen Pernikahanmu Sempurna</b><br>
+                                    “Dan segala sesuatu kami jadikan berpasang-pasangan, supaya kamu mengingat kebesaran Allah.”
                                 </p>
                             </figure>
                         </div>
@@ -116,25 +117,77 @@
                         <div class="col-sm-6 col-md-4 col-xl-4">
                             <figure data-animate="ts-fadeInUp" data-delay="0.1s">
                                 <figure class="icon mb-5 p-2">
-                                    <img src="assets/img/icon-lcd-chart.png" alt="">
-                                    <div class="ts-svg" data-animate="ts-zoomInShort" data-bg-image="assets/svg/organic-shape-02.svg"></div>
+                                    <img src="assets/img/evordigi/BIRTHDAY PARTY.png" alt="">
+                                    <div class="ts-svg" data-animate="ts-zoomInShort" data-bg-image="assets/svg"></div>
                                 </figure>
-                                <h4>Analyze Your Results</h4>
+                                <h4></h4>
                                 <p>
-                                    Curabitur tellus enim, aliquet et porttitor id, accumsan at nulla. Praesent vestibulum
+                                <b>Rayakan Ulang Tahun Yang Begitu Bahagia</b><br>
+                                
+                                "Miladuki saidah, barakallahu fii umrik"
+
                                 </p>
+
+
                             </figure>
                         </div>
                         <!--end col-xl-4-->
                         <div class="col-sm-6 offset-sm-4 col-md-4 offset-md-0 col-xl-4">
                             <figure data-animate="ts-fadeInUp" data-delay="0.2s">
                                 <figure class="icon mb-5 p-2">
-                                    <img src="assets/img/icon-cup-winner.png" alt="">
-                                    <div class="ts-svg" data-animate="ts-zoomInShort" data-bg-image="assets/svg/organic-shape-03.svg"></div>
+                                    <img src="assets/img/evordigi/AQIQAH.png" alt="">
+                                    <div class="ts-svg" data-animate="ts-zoomInShort" data-bg-image="assets/svg"></div>
                                 </figure>
-                                <h4>Get Better!</h4>
+                                <h4></h4>
                                 <p>
-                                    In non turpis convallis nunc fermentum porttitor sed quis sapien. Etiam et neque
+                                    <b>Syukuran Kelahiran Anak Tercinta & Berkah</b><br>
+                                    “Semua bayi tergadaikan dengan aqiqah-nya yang pada hari ketujuhnya disembelih hewan (kambing), diberi nama, dan dicukur rambutnya.”
+                                </p>
+                            </figure>
+                        </div>
+                        <!--end col-xl-4-->
+                         <!--end col-xl-4-->
+                         <div class="col-sm-6 offset-sm-4 col-md-4 offset-md-0 col-xl-4">
+                            <figure data-animate="ts-fadeInUp" data-delay="0.2s">
+                                <figure class="icon mb-5 p-2">
+                                    <img src="assets/img/evordigi/GATHERING.png" alt="">
+                                    <div class="ts-svg" data-animate="ts-zoomInShort" data-bg-image="assets/svg"></div>
+                                </figure>
+                                <h4></h4>
+                                <p>
+                                    <b>Pertemuan Yang Nyaman Dan Silaturahmi</b><br>
+                                    “Barangsiapa yang senang untuk dilapangkan rizkinya dan diakhirkan ajalnya (dipanjangkan umurnya), maka hendaklah ia menyambung (tali) silaturahim.”
+                                </p>
+                            </figure>
+                        </div>
+                        <!--end col-xl-4-->
+                         <!--end col-xl-4-->
+                         <div class="col-sm-6 offset-sm-4 col-md-4 offset-md-0 col-xl-4">
+                            <figure data-animate="ts-fadeInUp" data-delay="0.2s">
+                                <figure class="icon mb-5 p-2">
+                                    <img src="assets/img/evordigi/CONCERT.png" alt="">
+                                    <div class="ts-svg" data-animate="ts-zoomInShort" data-bg-image="assets/svg"></div>
+                                </figure>
+                                <h4></h4>
+                                <p>
+                                    <b>Konser Amal Yang Diinginkan</b><br>
+                                    "Dan apa saja kebaikan yang kamu buat, maka sesungguhnya Allah Maha Mengetahuinya"
+
+                                </p>
+                            </figure>
+                        </div>
+                        <!--end col-xl-4-->
+                          <!--end col-xl-4-->
+                          <div class="col-sm-6 offset-sm-4 col-md-4 offset-md-0 col-xl-4">
+                            <figure data-animate="ts-fadeInUp" data-delay="0.2s">
+                                <figure class="icon mb-5 p-2">
+                                    <img src="assets/img/evordigi/KHITANAN.png" alt="">
+                                    <div class="ts-svg" data-animate="ts-zoomInShort" data-bg-image="assets/svg"></div>
+                                </figure>
+                                <h4></h4>
+                                <p>
+                                    <b>Fitrah Amaliah Kesucian & Kebersihan</b><br>
+                                    “Lima dari fitrah yaitu khitan, istihdad, mencabut bulu ketiak, memotong kuku dan mencukur kumis”
                                 </p>
                             </figure>
                         </div>
@@ -150,23 +203,45 @@
             <section id="partners" class="py-5 ts-block" data-bg-color="#f6f6f6">
                 <!--container-->
                 <div class="container">
+                    <div class="ts-title text-center">
+                        <h2>Produk</h2>
+                    </div>
                     <!--block of logos-->
                     <div class="d-block d-md-flex justify-content-between align-items-center text-center ts-partners ">
                         <a href="#">
-                            <img src="assets/img/logo-01.png" alt="">
+                             <img src="assets/img/evordigi/CATERING.png" alt="">
                         </a>
                         <a href="#">
-                            <img src="assets/img/logo-02.png" alt="">
+                            <img src="assets/img/evordigi/PHOTOGRAFY.png" alt="">
                         </a>
                         <a href="#">
-                            <img src="assets/img/logo-03.png" alt="">
+                            <img src="assets/img/evordigi/DECORATION.png" alt="">
                         </a>
                         <a href="#">
-                            <img src="assets/img/logo-04.png" alt="">
+                            <img src="assets/img/evordigi/TALENT.png" alt="">
                         </a>
                         <a href="#">
-                            <img src="assets/img/logo-05.png" alt="">
+                            <img src="assets/img/evordigi/GEDUNG.png" alt="">
                         </a>
+                        
+                    </div>
+                    <div class="d-block d-md-flex justify-content-between align-items-center text-center ts-partners ">
+                        <a href="#">
+                             <img src="assets/img/evordigi/KEBAYA.png" alt="">
+                        </a>
+                        <a href="#">
+                            <img src="assets/img/evordigi/SOUND.png" alt="">
+                        </a>
+                        <a href="#">
+                            <img src="assets/img/evordigi/GEDUNG.png" alt="">
+                        </a>
+                        <a href="#">
+                            <img src="assets/img/evordigi/KONSULTASI.png" alt="">
+                        </a>
+                        <a href="#">
+                            <img src="assets/img/evordigi/ACARAADAT.png" alt="">
+                        </a>
+                        
                     </div>
                     <!--end logos-->
                 </div>
@@ -221,15 +296,13 @@
             <section id="what-is-appstorm" class="ts-block">
                 <div class="container">
                     <div class="ts-title">
-                        <h2>What Is AppStorm?</h2>
+                        <h2>What Is Evordigi?</h2>
                     </div>
                     <!--end ts-title-->
                     <div class="row">
                         <div class="col-md-5 col-xl-5" data-animate="ts-fadeInUp" data-offset="100">
                             <p>
-                                Vivamus fermentum magna non faucibus dignissim. Sed a venenatis mi, vel tempus neque.
-                                Fusce pharetra, diam in hendrerit facilisis, enim diam cursus augue, egestas egestas
-                                purus diam at felis. Nullam tellus turpis, molestie ac urna quis, pulvinar semper massa.
+                                Evordigi.com adalah Platform pencarian jasa Event Organizer dan kebutuhan acara.
                             </p>
                             <p>
                                 Nam tristique  Sed nisl justo, commodo ac gravida vitae, sodales maximus erat. Phasellus
@@ -240,7 +313,7 @@
                         <!--end col-xl-5-->
                         <div class="col-md-7 col-xl-7 text-center" data-animate="ts-fadeInUp" data-delay="0.1s" data-offset="100">
                             <div class="px-3">
-                                <img src="assets/img/img-screen-desktop.jpg" class="mw-100 ts-shadow__lg ts-border-radius__md" alt="">
+                                <img src="assets/img/evordigi/LOGO.jpg" class="mw-100 ts-shadow__lg ts-border-radius__md" alt="">
                             </div>
                         </div>
                         <!--end col-xl-7-->
@@ -480,7 +553,7 @@
                                     <!--end person image-->
                                     <!--cite-->
                                     <p>
-                                        Morbi et nisl a sapien malesuada scelerisque. Suspendisse tempor turpis mattis nibh posuere. Aenean sagittis nisl.
+                                        Pastikan momen menikahmu sempurna nibh posuere. Aenean sagittis nisl.
                                         uthicula sagitti
                                     </p>
                                     <!--end cite-->
@@ -503,8 +576,7 @@
                                     <!--end person image-->
                                     <!--cite-->
                                     <p>
-                                        Morbi et nisl a sapien malesuada scelerisque. Suspendisse tempor turpis mattis nibh posuere. Aenean sagittis nisl.
-                                        uthicula sagitti
+                                        Pastikan Momen Bahagiamu Sempurna
                                     </p>
                                     <!--end cite-->
                                     <!--person name-->
@@ -525,7 +597,7 @@
 
             <section id="gallery" class="ts-block ts-shape-mask__up" data-bg-color="#f7f7f7" data-bg-image="assets/img/bg-shapes.png" data-bg-size="contain" data-bg-repeat="no-repeat">
                 <div class="ts-title text-center">
-                    <h2>Gallery</h2>
+                    <h2>Product</h2>
                 </div>
                 <!--end ts-title-->
                 <div class="owl-carousel ts-carousel-centered py-2 mb-5" data-owl-loop="1" data-owl-nav="1" data-owl-items="3" data-owl-margin="30" data-owl-center="1">
@@ -605,7 +677,7 @@
                                 <figure class="icon">
                                     <img src="assets/img/icon-lcd-chart.png" class="" alt="">
                                 </figure>
-                                <h4 class="mb-2">Real Time Price</h4>
+                                <h4 class="mb-2">Real Time Price 123</h4>
                                 <p>
                                     Morbi et nisl a sapien malesuada scelerisque. Suspendisse tempor turpis mattis
                                 </p>
@@ -665,12 +737,12 @@
                         <div class="col-sm-6 col-lg-3">
                             <div class="card" data-animate="ts-fadeInUp">
                                 <div class="ts-card__image ts-img-into-bg">
-                                    <img class="card-img-top" src="assets/img/person-01.jpg" alt="Card image cap">
+                                    <img class="card-img-top" src="assets/img/evordigi/ASLAMFIKRI.png" alt="Card image cap">
                                 </div>
                                 <!--end ts-card__image-->
                                 <div class="card-body">
-                                    <h5 class="mb-1">Anita Matthews</h5>
-                                    <h6 class="ts-opacity__50">Company CEO</h6>
+                                    <h5 class="mb-1">Muhammad Aslam Fikri</h5>
+                                    <h6 class="ts-opacity__50">Founder & CEO</h6>
                                 </div>
                                 <!--end card-body-->
                                 <div class="card-footer bg-white">
@@ -695,10 +767,10 @@
                         <div class="col-sm-6 col-lg-3">
                             <div class="card" data-animate="ts-fadeInUp" data-delay=".1s">
                                 <div class="ts-card__image ts-img-into-bg">
-                                    <img class="card-img-top" src="assets/img/person-02.jpg" alt="Card image cap">
+                                    <img class="card-img-top" src="assets/img/evordigi/PAKJUNAIDI.png" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="mb-1">Levi Masters</h5>
+                                    <h5 class="mb-1">Junaidi</h5>
                                     <h6 class="ts-opacity__50">Investment Specialist</h6>
                                 </div>
                                 <div class="card-footer bg-white">
@@ -725,8 +797,8 @@
                                     <img class="card-img-top" src="assets/img/person-03.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="mb-1">John Doe</h5>
-                                    <h6 class="ts-opacity__50">Head Of Marketing</h6>
+                                    <h5 class="mb-1">Muhammd Alwin</h5>
+                                    <h6 class="ts-opacity__50">CMO</h6>
                                 </div>
                                 <div class="card-footer bg-white">
                                     <div class="ts-social-icons">
@@ -752,8 +824,8 @@
                                     <img class="card-img-top" src="assets/img/person-04.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="mb-1">Lisa Haley</h5>
-                                    <h6 class="ts-opacity__50">Customer Support</h6>
+                                    <h5 class="mb-1">Ari Bahtiar</h5>
+                                    <h6 class="ts-opacity__50">CTO</h6>
                                 </div>
                                 <div class="card-footer bg-white">
                                     <div class="ts-social-icons">
@@ -838,20 +910,20 @@
                                 <h3>Contact Us</h3>
                                 <address>
                                     <figure>
-                                        2590 Rocky Road
-                                        Philadelphia, PA 19108
+                                        RUMAH KREATIF BUMN
+                                        jl. Universitas Siliwangi Kota Tasikmalaya 46115, INDONESIA
                                     </figure>
                                     <br>
                                     <figure>
                                         <div class="font-weight-bold">Email:</div>
-                                        <a href="#">office@example.com</a>
+                                        <a href="#">evordigi@gmail.com</a>
                                     </figure>
                                     <figure>
                                         <div class="font-weight-bold">Phone:</div>
-                                        +1 215-606-0391
+                                        +62 822-7778-6223
                                     </figure>
-                                    <div class="font-weight-bold">Skype:</div>
-                                    crypto.agency
+                                    <div class="font-weight-bold">Instagram:</div>
+                                    evordigi
                                 </address>
                                 <!--end address-->
                             </div>
@@ -902,7 +974,7 @@
                     </div>
                     <!--end ts-box-->
                     <div class="text-center text-white py-4">
-                        <small>© 2018 ThemeStarz, All Rights Reserved</small>
+                        <small>© 2019 Evordigi, All Rights Reserved</small>
                     </div>
                 </div>
                 <!--end container-->
