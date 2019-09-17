@@ -284,7 +284,7 @@
                             <img src="assets/img/img-tablet.png" class="mw-100" alt="">
                         </div>
                         <div class="tab-pane fade" id="mobile" role="tabpanel" aria-labelledby="mobile">
-                            <img src="assets/img/img-phone.png" class="mw-100" alt="">
+                            <img src="assets/img/EVENT.png" class="mw-100" alt="">
                         </div>
                     </div>
 
