@@ -34,11 +34,11 @@
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav ml-auto">
                             <a class="nav-item nav-link active ts-scroll" href="#page-top">Home <span class="sr-only">(current)</span></a>
-                            <a class="nav-item nav-link ts-scroll" href="#how-it-looks">How It Looks</a>
-                            <a class="nav-item nav-link ts-scroll" href="#what-is-appstorm">About</a>
-                            <a class="nav-item nav-link ts-scroll" href="#pricing">Pricing</a>
-                            <a class="nav-item nav-link ts-scroll" href="#our-clients">Our Clients</a>
-                            <a class="nav-item nav-link ts-scroll" href="#gallery">Galley</a>
+                            {{-- <a class="nav-item nav-link ts-scroll" href="#how-it-looks">How It Looks</a> --}}
+                            {{-- <a class="nav-item nav-link ts-scroll" href="#what-is-appstorm">About</a> --}}
+                            {{-- <a class="nav-item nav-link ts-scroll" href="#pricing">Pricing</a> --}}
+                            {{-- <a class="nav-item nav-link ts-scroll" href="#our-clients">Our Clients</a> --}}
+                            {{-- <a class="nav-item nav-link ts-scroll" href="#gallery">Galley</a> --}}
                             <a class="nav-item nav-link ts-scroll" href="#form-contact">Contact</a>
                             <a class="nav-item nav-link ts-scroll btn btn-primary btn-sm text-white ml-3 px-3 ts-width__auto" href="/register">Register</a>
                         </div>
@@ -293,7 +293,7 @@
             <!--END HOW IT LOOKS ************************************************************************************--> --}}
 
             <!--WHAT IS APPSTORM ************************************************************************************-->
-            <section id="what-is-appstorm" class="ts-block">
+            {{-- <section id="what-is-appstorm" class="ts-block">
                 <div class="container">
                     <div class="ts-title">
                         <h2>What Is Evordigi?</h2>
@@ -321,7 +321,7 @@
                     <!--end row-->
                 </div>
                 <!--end container-->
-            </section>
+            </section> --}}
             <!--END WHAT IS APPSTORM ********************************************************************************-->
 
             {{-- <!--FEATURES ********************************************************************************************-->
@@ -900,8 +900,10 @@
         <!--*********************************************************************************************************-->
         <footer id="ts-footer">
 
-            <div class="map ts-height__600px" id="map"></div>
-
+            {{-- <div class="map ts-height__600px" id="map"></div> --}}
+            <br>
+            <br>
+            <br>
             <section id="contact" class="ts-separate-bg-element" data-bg-image="assets/img/bg-desk.jpg" data-bg-image-opacity=".1" data-bg-color="#1b1464">
                 <div class="container">
                     <div class="ts-box mb-0 p-5 ts-mt__n-10">
