@@ -248,7 +248,7 @@
                 <!--end container-->
             </section>
             <!--END PARTNERS ****************************************************************************************-->
-
+{{-- 
             <!--HOW IT LOOKS ****************************************************************************************-->
             <section id="how-it-looks" class="pb-0 ts-block text-center ts-overflow__hidden ts-shape-mask__down" data-bg-color="#ededed" data-bg-image="assets/img/bg-shapes-image.png" data-bg-repeat="no-repeat" data-bg-position="bottom" data-bg-size="inherit">
                 <div class="container">
@@ -290,7 +290,7 @@
 
                 </div>
             </section>
-            <!--END HOW IT LOOKS ************************************************************************************-->
+            <!--END HOW IT LOOKS ************************************************************************************--> --}}
 
             <!--WHAT IS APPSTORM ************************************************************************************-->
             <section id="what-is-appstorm" class="ts-block">
@@ -324,7 +324,7 @@
             </section>
             <!--END WHAT IS APPSTORM ********************************************************************************-->
 
-            <!--FEATURES ********************************************************************************************-->
+            {{-- <!--FEATURES ********************************************************************************************-->
             <section id="features" class="ts-block" data-bg-image="assets/img/bg-shapes-image-02.png" data-bg-size="inherit" data-bg-position="left" data-bg-repeat="no-repeat">
                 <div class="container">
                     <div class="row">
@@ -398,9 +398,9 @@
                 </div>
                 <!--end container-->
             </section>
-            <!--FEATURES ********************************************************************************************-->
+            <!--FEATURES ********************************************************************************************--> --}}
 
-            <!--SUBSCRIBE *******************************************************************************************-->
+            {{-- <!--SUBSCRIBE *******************************************************************************************-->
             <section id="subscribe" class="ts-block ts-separate-bg-element" data-bg-image="assets/img/bg-pattern-dot.png" data-bg-size="inherit" data-bg-image-opacity=".1" data-bg-repeat="repeat">
                 <div class="container">
                     <h3>Subscribe For Crypto News!</h3>
@@ -426,9 +426,9 @@
                 </div>
                 <!--end container-->
             </section>
-            <!--END SUBSCRIBE ***************************************************************************************-->
+            <!--END SUBSCRIBE ***************************************************************************************--> --}}
 
-            <!--PRICING *********************************************************************************************-->
+            {{-- <!--PRICING *********************************************************************************************-->
             <section id="pricing" class="ts-block">
                 <div class="container">
                     <div class="ts-title text-center">
@@ -531,9 +531,9 @@
                 </div>
                 <!--end container-->
             </section>
-            <!--END PRICING *****************************************************************************************-->
+            <!--END PRICING *****************************************************************************************--> --}}
 
-            <section id="our-clients" class="ts-block text-center">
+            {{-- <section id="our-clients" class="ts-block text-center">
                 <div class="container">
                     <div class="ts-title">
                         <h2>Our Clients</h2>
@@ -593,9 +593,9 @@
 
                 </div>
             </section>
-            <!--end #our-clients.ts-block-->
+            <!--end #our-clients.ts-block--> --}}
 
-            <section id="gallery" class="ts-block ts-shape-mask__up" data-bg-color="#f7f7f7" data-bg-image="assets/img/bg-shapes.png" data-bg-size="contain" data-bg-repeat="no-repeat">
+            {{-- <section id="gallery" class="ts-block ts-shape-mask__up" data-bg-color="#f7f7f7" data-bg-image="assets/img/bg-shapes.png" data-bg-size="contain" data-bg-repeat="no-repeat">
                 <div class="ts-title text-center">
                     <h2>Product</h2>
                 </div>
@@ -850,9 +850,9 @@
                 </div>
                 <!--end container-->
             </section>
-            <!--END OUR TEAM ****************************************************************************************-->
+            <!--END OUR TEAM ****************************************************************************************--> --}}
 
-            <!--NUMBERS *********************************************************************************************-->
+            {{-- <!--NUMBERS *********************************************************************************************-->
             <section id="numbers" class="ts-block ts-separate-bg-element" data-bg-image="assets/img/pattern-topo.png" data-bg-image-opacity=".05" data-bg-size="inherit" data-bg-repeat="repeat">
                 <div class="container">
                     <div class="ts-promo-numbers">
@@ -890,7 +890,7 @@
                 </div>
                 <!--end container-->
             </section>
-            <!--END NUMBERS *****************************************************************************************-->
+            <!--END NUMBERS *****************************************************************************************--> --}}
 
         </main>
         <!--end #content-->
